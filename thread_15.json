@@ -2,314 +2,979 @@
     {
         "answers": [
             {
-                "answer": "На першому.",
+                "answer": "У місці А.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях А і Б.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях А, Б і В.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях А і В.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.1. У якому місці водієві дозволено зупинку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15001.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Має право тільки для посадки (висадки) пасажирів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Не має права.",
                 "is_correct": true
             },
             {
-                "answer": "На другому.",
+                "answer": "Має право в будь-якому випадку.",
                 "is_correct": false
+            }
+        ],
+        "question": "15.2. Чи має право водій зупинитися в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15002.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "На місці А.",
+                "is_correct": false
+            },
+            {
+                "answer": "На місці Б.",
+                "is_correct": false
+            },
+            {
+                "answer": "На місці В.",
+                "is_correct": true
+            },
+            {
+                "answer": "На місцях А та В.",
+                "is_correct": false
+            },
+            {
+                "answer": "На місцях Б і В.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.3. На якому з місць водієві синього автомобіля дозволено виконати зупинку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15003.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Усі водії.",
+                "is_correct": true
+            },
+            {
+                "answer": "Тільки водій мотоцикла.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії синього автомобіля і мотоцикла.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії фіолетового автомобіля і мотоцикла.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.4. Хто з водіїв, виконуючи зупинку, порушив Правила дорожнього руху?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15004.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "На місцях В і Д.",
+                "is_correct": false
+            },
+            {
+                "answer": "На місцях В, Г і Д.",
+                "is_correct": false
+            },
+            {
+                "answer": "На місцях А і Б.",
+                "is_correct": false
+            },
+            {
+                "answer": "На місцях А, В і Д.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.5. На якому з місць водієві легкового автомобіля дозволено зупинитися?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15005.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Усі водії.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії білого автомобіля і мотоцикла.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії зеленого і синього автомобілів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії зеленого, синього автомобілів і мотоцикла.",
+                "is_correct": true
+            },
+            {
+                "answer": "Ніхто не порушує.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.6. Хто з водіїв порушує правила зупинки?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15006.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Зелений і жовтий.",
+                "is_correct": false
+            },
+            {
+                "answer": "Жовтий, синій і білий.",
+                "is_correct": false
+            },
+            {
+                "answer": "Синій і білий.",
+                "is_correct": false
+            },
+            {
+                "answer": "Синій, білий і зелений.",
+                "is_correct": true
+            },
+            {
+                "answer": "Усі транспортні засоби порушують.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.7. Який автомобіль зупинився з порушенням Правил дорожнього руху на дорозі з одностороннім рухом?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15007.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Тільки водій білого автомобіля.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки водій червоного автомобіля.",
+                "is_correct": false
+            },
+            {
+                "answer": "Обидва порушують.",
+                "is_correct": true
+            },
+            {
+                "answer": "Ніхто не порушує.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.8. Хто з водіїв порушив Правила дорожнього руху, виконуючи зупинку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15008.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "У місці А.",
+                "is_correct": true
+            },
+            {
+                "answer": "У місці Б.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях А і Б.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.9. У якому з місць водієві дозволено виконати зупинку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15009.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволено тільки для посадки (висадки) пасажирів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Дозволено.",
+                "is_correct": true
+            },
+            {
+                "answer": "Заборонено.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.10. Чи дозволено водієві жовтого автомобіля зупинитися в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15010.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволено.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заборонено.",
+                "is_correct": true
+            },
+            {
+                "answer": "Дозволено тільки в світлий час доби.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.11. Чи дозволено зупинитися в цьому місці для посадки пасажирів?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15011.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Заборонено.",
+                "is_correct": true
+            },
+            {
+                "answer": "Дозволено.",
+                "is_correct": false
+            },
+            {
+                "answer": "Дозволено тільки для посадки (висадки) пасажирів.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.12. Чи дозволено водієві зупинитися на мості в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15012.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Заборонено.",
+                "is_correct": true
+            },
+            {
+                "answer": "Дозволено на час до 5 хвилин.",
+                "is_correct": false
+            },
+            {
+                "answer": "Дозволено в будь-якому випадку.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.13. Чи дозволено водієві білого автомобіля зупинитися для посадки пасажира в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15013.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Тільки водії чорного автомобіля й автобуса.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки водії автобуса і сірого автомобіля.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії всіх транспортних засобів порушують.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.14. Хто з водіїв порушив Правила дорожнього руху, виконавши зупинку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15014.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "У місцях А та Д.",
+                "is_correct": true
+            },
+            {
+                "answer": "У місцях А, В і Д.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місці В.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях Г і Д.",
+                "is_correct": false
+            },
+            {
+                "answer": "У всіх місцях.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.15. У якому місці водієві легкового автомобіля дозволено зупинитися?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15015.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Якщо відстань між транспортним засобом і суцільною розміткою становить не менше 2 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "Якщо відстань між транспортним засобом і суцільною розміткою становить не менше 3 м.",
+                "is_correct": true
+            },
+            {
+                "answer": "Зупинка в цьому місці дозволена в будь-якому випадку",
+                "is_correct": false
+            }
+        ],
+        "question": "15.16. За яких умов водієві дозволено зупинитися в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15016.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволено.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заборонено.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.17. Чи дозволено водієві зупинитися в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15017.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "1,5 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "2 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "2,75 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "3 м.",
+                "is_correct": true
+            },
+            {
+                "answer": "4 м.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.18. Яка мінімальна відстань має бути між транспортним засобом, що зупинився, і протилежним краєм проїзної частини, щоб зупинка була виконана без порушень Правил дорожнього руху?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15018.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "У разі оформлення дорожньо-транспортної пригоди.",
+                "is_correct": false
+            },
+            {
+                "answer": "У разі виконання дорожніх робіт або робіт, пов'язаних із зайняттям проїзної частини.",
+                "is_correct": false
+            },
+            {
+                "answer": "У разі обмеження або заборони руху транспортних засобів та пішоходів у випадках, передбачених законодавством.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.19. У яких випадках, згідно з Правилами дорожнього руху, на проїзній частині дозволяється установка предметів, що перешкоджають проїзду або паркуванню транспортних засобів?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15019.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволена.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заборонена.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.20. Чи дозволена стоянка білого автомобіля в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15020.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Заборонена в будь-якому випадку.",
+                "is_correct": false
+            },
+            {
+                "answer": "Дозволена.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заборонена, якщо транспортний засіб унеможливить рух інших транспортних засобів або створить перешкоду для руху пішоходів.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.21. Чи дозволена стоянка автомобіля в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15021.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Заборонено.",
+                "is_correct": true
+            },
+            {
+                "answer": "Дозволено в будь-якому випадку.",
+                "is_correct": false
+            },
+            {
+                "answer": "Дозволено, якщо включені денні ходові вогні.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.22. Чи дозволено водієві чорного автомобіля виконати стоянку в цьому місці дороги, що знаходиться за межами населених пунктів, якщо оглядовість в одному з напрямків менше 100 м?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15022.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "У місцях А та Б.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях В і Г.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях А та Г.",
+                "is_correct": true
+            },
+            {
+                "answer": "У місцях А, В і Г.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.23. У якому місці водієві легкового автомобіля дозволено виконати стоянку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15023.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Усі водії.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії фіолетового, білого і синього автомобілів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії червоного і синього автомобілів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії білого і синього автомобілів.",
+                "is_correct": true
+            },
+            {
+                "answer": "Водії фіолетового і білого автомобілів.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.24. Хто з водіїв правильно виконує стоянку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15024.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Технічною несправністю автомобіля або небезпекою, спричиненою вантажем, який перевозиться.",
+                "is_correct": false
+            },
+            {
+                "answer": "Станом учасника дорожнього руху.",
+                "is_correct": false
+            },
+            {
+                "answer": "Появою перешкоди для руху.",
+                "is_correct": false
+            },
+            {
+                "answer": "Усім переліченим вище.",
+                "is_correct": true
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.25. Чим може бути зумовлена зупинка, щоб вона вважалася вимушеною?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15025.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Тільки водій жовтого автомобіля.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки водій синього автомобіля.",
+                "is_correct": false
+            },
+            {
+                "answer": "Усі порушують.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водії синього і жовтого автомобілів.",
+                "is_correct": true
+            },
+            {
+                "answer": "Водії сірого і жовтого автомобілів.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.26. Хто з водіїв порушив правила зупинки в місці виїзду з двору?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15026.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволено, якщо буде можливий зустрічний роз'їзд або об'їзд транспортних засобів, що зупинилися.",
+                "is_correct": true
+            },
+            {
+                "answer": "Заборонено в будь-якому випадку.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.27. Чи дозволена зупинка транспортних засобів один навпроти одного, як показано на малюнку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15027.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Не може.",
+                "is_correct": true
+            },
+            {
+                "answer": "Може.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.28. Чи може водій виконати посадку (висадку) пасажирів у зоні виконання дорожніх робіт?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15028.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Ближче 10 м.",
+                "is_correct": true
+            },
+            {
+                "answer": "Ближче 15 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "Ближче 30 м.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.29. На якій відстані до позначеного місця виконання дорожніх робіт заборонено зупинку транспортних засобів?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15029.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволено.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заборонено.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.30. Чи дозволено водієві зупинитися в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15030.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Обидва водії",
+                "is_correct": false
+            },
+            {
+                "answer": "Водій жовтого автомобіля.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водій червоного автомобіля.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.31. Хто з водіїв, виконуючи зупинку, порушує Правила дорожнього руху?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15031.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Має право в будь-якому випадку.",
+                "is_correct": false
+            },
+            {
+                "answer": "Не має права.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.32. Чи має право водій легкового автомобіля виконати зупинку в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15032.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволяється.",
+                "is_correct": false
+            },
+            {
+                "answer": "Забороняється.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.33. Чи дозволяється водієві зеленого автомобіля зупинитися в цьому місці без необхідності посадки (висадки) пасажирів, якщо це не вимагається Правилами дорожнього руху?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15033.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Усі поставлені правильно.",
+                "is_correct": false
+            },
+            {
+                "answer": "Вантажний автомобіль.",
+                "is_correct": true
+            },
+            {
+                "answer": "Мотоцикл із боковим причепом.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.34. Який транспортний засіб поставлено на стоянку неправильно?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15034.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Правильно.",
+                "is_correct": false
+            },
+            {
+                "answer": "Неправильно.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.35. Чи правильно водій червоного автомобіля виконує посадку (висадку) пасажирів?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15035.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Тільки в місці Б.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях Б, В і Г.",
+                "is_correct": true
+            },
+            {
+                "answer": "У місцях Б і В.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях А, Б, В і Г.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місці В.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.36. У якому місці цієї дороги з одностороннім рухом водієві легкового автомобіля дозволено виконати зупинку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15036.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Обидва водії.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водій синього автомобіля.",
+                "is_correct": true
+            },
+            {
+                "answer": "Водій червоного автомобіля.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.37. Який з водіїв правильно зупинив свій транспортний засіб на дорозі з двостороннім рухом за межами населеного пункту?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15037.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "На першому.",
+                "is_correct": false
+            },
+            {
+                "answer": "На другому.",
+                "is_correct": true
             },
             {
                 "answer": "На обох.",
                 "is_correct": false
             }
         ],
-        "question": "14.1. На якому з малюнків показаний обгін?",
+        "question": "15.38. На якому з малюнків транспортні засоби поставлені правильно на дорогах у населених пунктах?",
         "explanation": null,
-        "image": "14001"
+        "image": "https://pdrtest.com/pics/15038.webp"
     },
     {
         "answers": [
             {
-                "answer": "Якщо завершив обгін до залізничного переїзду.",
+                "answer": "На малюнках 1 і 2.",
                 "is_correct": false
             },
             {
-                "answer": "Якщо завершив обгін за 50 м до переїзду.",
-                "is_correct": false
-            },
-            {
-                "answer": "Якщо завершив обгін за 100 м до переїзду.",
+                "answer": "На малюнку 1.",
                 "is_correct": true
+            },
+            {
+                "answer": "На малюнку 2.",
+                "is_correct": false
+            },
+            {
+                "answer": "На малюнку 3.",
+                "is_correct": false
             }
         ],
-        "question": "14.2. У якому випадку водій білого автомобіля правильно виконав обгін перед залізничним переїздом?",
+        "question": "15.39. На якому з малюнків показана дорога з двостороннім рухом у населеному пункті, на якій водій може поставити транспортний засіб на стоянку або зупинку на лівому боці?",
         "explanation": null,
-        "image": "14002"
+        "image": "https://pdrtest.com/pics/15039.webp"
     },
     {
         "answers": [
             {
-                "answer": "Виконати обгін в цьому місці, якщо вантажівка рухається зі швидкістю менше ніж 30 км/год.",
+                "answer": "Водієві синього автомобіля.",
                 "is_correct": false
             },
             {
-                "answer": "Виконати обгін в цьому місці, дотримуючись особливої обережності.",
-                "is_correct": false
-            },
-            {
-                "answer": "Виконати обгін за залізничним переїздом.",
+                "answer": "Водієві зеленого автомобіля.",
                 "is_correct": true
+            },
+            {
+                "answer": "Обом водіям.",
+                "is_correct": false
             }
         ],
-        "question": "14.3. Як в цій ситуації вчинити водієві червоного автомобіля, для того щоб обігнати великогабаритний вантажний автомобіль?",
+        "question": "15.40. Кому з водіїв дозволено поставити свій транспортний засіб на лівому боці дороги, після проїзду цих дорожніх знаків?",
         "explanation": null,
-        "image": "14003"
+        "image": "https://pdrtest.com/pics/15040.webp"
     },
     {
         "answers": [
             {
-                "answer": "Не може.",
-                "is_correct": false
-            },
-            {
-                "answer": "Може за умови, що обгін буде завершено за 100 м до переїзду.",
+                "answer": "У місці А.",
                 "is_correct": true
             },
             {
-                "answer": "Може в будь-якому випадку.",
+                "answer": "У місці Б.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місці А чи Б.",
                 "is_correct": false
             }
         ],
-        "question": "14.4. Чи може водій виконати обгін після проїзду цих знаків?",
+        "question": "15.41. У якому місці повинен зупинитися водій червоного автомобіля?",
         "explanation": null,
-        "image": "14004"
+        "image": "https://pdrtest.com/pics/15041.webp"
     },
     {
         "answers": [
             {
-                "answer": "Заборонено, якщо швидкість білого автомобіля вище 30 км/год.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено в будь-якому випадку.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дозволено.",
+                "answer": "Біля правого або лівого краю проїзної частини.",
                 "is_correct": true
             },
             {
-                "answer": "Дозволено через 100 м.",
+                "answer": "Біля правого краю проїзної частини.",
+                "is_correct": false
+            },
+            {
+                "answer": "Біля лівого краю проїзної частини.",
                 "is_correct": false
             }
         ],
-        "question": "14.5. Чи дозволено в цій ситуації водієві синього автомобіля виконати обгін білого автомобіля?",
+        "question": "15.42. У якому місці водію червоного автомобіля дозволено зупинити транспортний засіб на дорозі в населеному пункті?",
         "explanation": null,
-        "image": "14005"
+        "image": "https://pdrtest.com/pics/15042.webp"
     },
     {
         "answers": [
             {
-                "answer": "Заборонено.",
+                "answer": "На правому або лівому узбіччі.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки на правому узбіччі.",
                 "is_correct": true
             },
             {
-                "answer": "Дозволено за умови, що швидкість автомобіля, який рухається попереду, менше 30 км/год.",
+                "answer": "Біля правого краю проїзної частини, якомога правіше.",
                 "is_correct": false
             },
             {
-                "answer": "Дозволено.",
+                "answer": "Відповіді 1 і 3.",
                 "is_correct": false
             }
         ],
-        "question": "14.6. Чи дозволено обгін у даній ситуації?",
+        "question": "15.43. У якому місці водій червоного автомобіля повинен зупинити транспортний засіб на дорозі за межами населених пунктів?",
         "explanation": null,
-        "image": "14006"
+        "image": "https://pdrtest.com/pics/15043.webp"
     },
     {
         "answers": [
             {
-                "answer": "Дозволено.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дозволено за умови, що швидкість автомобіля, який рухається попереду, менше 30 км/год.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
+                "answer": "Водій сірого автомобіля.",
                 "is_correct": true
+            },
+            {
+                "answer": "Водій червоного автомобіля.",
+                "is_correct": false
+            },
+            {
+                "answer": "Обидва водії.",
+                "is_correct": false
             }
         ],
-        "question": "14.7. Чи дозволено обгін у даній дорожній ситуації?",
+        "question": "15.44. Хто з водіїв зупинився неправильно?",
         "explanation": null,
-        "image": "14007"
+        "image": "https://pdrtest.com/pics/15044.webp"
     },
     {
         "answers": [
             {
-                "answer": "Дозволяється.",
+                "answer": "Велосипеди.",
                 "is_correct": false
             },
             {
-                "answer": "Забороняється.",
+                "answer": "Мопеди.",
+                "is_correct": false
+            },
+            {
+                "answer": "Зелений мотоцикл із боковим причепом.",
+                "is_correct": false
+            },
+            {
+                "answer": "Коричневий мотоцикл із боковим причепом.",
                 "is_correct": true
-            },
-            {
-                "answer": "Дозволяється, якщо водій білого автомобіля включив аварійну сигналізацію.",
-                "is_correct": false
             }
         ],
-        "question": "14.8. Чи дозволяється водієві синього автомобіля почати обгін у цій ситуації?",
+        "question": "15.45. Які транспортні засоби поставлені з порушенням Правил дорожнього руху?",
         "explanation": null,
-        "image": "14008"
+        "image": "https://pdrtest.com/pics/15045.webp"
     },
     {
         "answers": [
             {
-                "answer": "Дозволено, якщо не буде створено перешкоди зустрічним транспортним засобам.",
+                "answer": "Біля лівого краю проїзної частини.",
                 "is_correct": false
             },
             {
-                "answer": "Дозволено за умови, що водій автомобіля, який їде попереду, не почав обгін або перестроювання.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дозволено у випадках, зазначених у відповідях 1 і 2.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
+                "answer": "Біля правого краю проїзної частини, як можна правіше, щоб не перешкоджати іншим учасникам дорожнього руху.",
                 "is_correct": true
+            },
+            {
+                "answer": "На тротуарах або на пішохідних доріжках, щоб не перешкоджати іншим учасникам дорожнього руху.",
+                "is_correct": false
             }
         ],
-        "question": "14.9. Чи дозволено водієві обгін у цьому місці?",
+        "question": "15.46. У якому місці дороги водій може зупинити свій транспортний засіб, якщо на узбіччях зупинка і стоянка неможливі, а спеціально відведені місця відсутні?",
         "explanation": null,
-        "image": "14009"
+        "image": "https://pdrtest.com/pics/15046.webp"
     },
     {
         "answers": [
             {
-                "answer": "Дозволено, переконавшись у відсутності зустрічних автомобілів.",
+                "answer": "У місці А.",
                 "is_correct": false
             },
             {
-                "answer": "Дозволено, якщо швидкість автомобіля, що обганяється, менше ніж 30 км/год.",
+                "answer": "У місці Б.",
                 "is_correct": false
             },
             {
-                "answer": "Заборонено.",
+                "answer": "У місці В.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місці А, Б і В.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місці А і В.",
                 "is_correct": true
-            },
-            {
-                "answer": "Дозволено за умови виконання вимог з відповідей 1 і 2.",
-                "is_correct": false
             }
         ],
-        "question": "14.10. Чи дозволено водієві чорного автомобіля виконати обгін у цій ситуації?",
+        "question": "15.47. У якому місці водій може виконати зупинку?",
         "explanation": null,
-        "image": "14010"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволено.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено тільки в населеному пункті.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.11. Чи дозволено водієві сірого автомобіля виконати обгін білого?",
-        "explanation": null,
-        "image": "14011"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.12. Чи дозволено обгін водієві зеленого автомобіля в цій ситуації?",
-        "explanation": null,
-        "image": "14012"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.13. Чи дозволено водієві білого автомобіля виконати обгін у цій ситуації?",
-        "explanation": null,
-        "image": "14013"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено, якщо швидкість автомобіля, що обганяється, менше 30 км/год.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дозволено, якщо смуга зустрічного руху вільна.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дозволено при дотриманні умов, зазначених у відповідях 2 і 3.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.14. Чи дозволено виконати обгін у даній дорожній ситуації?",
-        "explanation": null,
-        "image": "14014"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволено в будь-якому випадку.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено, якщо швидкість автомобіля, що обганяється, менше 30 км/год.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.15. Чи дозволено водієві жовтого автомобіля виконати обгін у цій ситуації?",
-        "explanation": null,
-        "image": "14015"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволено в будь-якому випадку.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено, якщо швидкість автомобіля, що обганяється, менше 30 км/год.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.16. Чи дозволено виконати обгін у цій ситуації?",
-        "explanation": null,
-        "image": "14016"
+        "image": "https://pdrtest.com/pics/15047.webp"
     },
     {
         "answers": [
@@ -322,477 +987,902 @@
                 "is_correct": true
             }
         ],
-        "question": "14.17. Чи дозволено водієві виконати обгін транспортних засобів, що рухаються з увімкненими проблисковими маячками оранжевого кольору?",
+        "question": "15.48. Чи дозволено водієві синього автомобіля зупинитися в цьому місці?",
         "explanation": null,
-        "image": "14017"
+        "image": "https://pdrtest.com/pics/15048.webp"
     },
     {
         "answers": [
             {
-                "answer": "Неправильно: обгін перед залізничним переїздом заборонений.",
+                "answer": "Усі стоять правильно.",
                 "is_correct": false
             },
             {
-                "answer": "Правильно, оскільки обгін був завершений за 100 м до залізничного переїзду.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.18. Чи правильно водій зеленого автомобіля виконав обгін синього автомобіля?",
-        "explanation": null,
-        "image": "14018"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Заборонено.",
+                "answer": "Вантажний автомобіль та мікроавтобус.",
                 "is_correct": true
             },
             {
-                "answer": "Дозволено в будь-якому випадку.",
+                "answer": "Тільки вантажний автомобіль.",
                 "is_correct": false
             },
             {
-                "answer": "Дозволено за умови, що синій автомобіль рухається повільно.",
+                "answer": "Тільки мікроавтобус.",
+                "is_correct": false
+            },
+            {
+                "answer": "Вантажний автомобіль, мікроавтобус і мотоцикл.",
                 "is_correct": false
             }
         ],
-        "question": "14.19. Чи дозволено водієві жовтого автомобіля виконати обгін синього так, як показано на малюнку?",
+        "question": "15.49. Який транспортний засіб поставлено на стоянку з порушенням Правил дорожнього руху в цьому місці?",
         "explanation": null,
-        "image": "14019"
+        "image": "https://pdrtest.com/pics/15049.webp"
     },
     {
         "answers": [
             {
-                "answer": "Дозволено.",
+                "answer": "Усі транспортні засоби.",
                 "is_correct": false
             },
             {
-                "answer": "Заборонено.",
+                "answer": "Вантажні автомобілі з дозволеною максимальною масою менше 3,5 т.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки легкові автомобілі.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки мотоцикли.",
+                "is_correct": false
+            },
+            {
+                "answer": "Транспортні засоби, зазначені у відповідях 3 і 4.",
                 "is_correct": true
             }
         ],
-        "question": "14.20. Чи дозволено водієві синього автомобіля обігнати мопед?",
+        "question": "15.50. Які транспортні засоби дозволено ставити в місцях, позначених дорожніми знаками «Місце для стоянки» або «Зона стоянки», встановленими з такими табличками?",
         "explanation": null,
-        "image": "14020"
+        "image": "https://pdrtest.com/pics/15050.webp"
     },
     {
         "answers": [
             {
-                "answer": "У тому, що на проїзній частині рівна дорога.",
+                "answer": "У місцях А чи Б.",
                 "is_correct": false
             },
             {
-                "answer": "У тому, що після обгону зможе, не створюючи перешкоди транспортному засобу, якого він обганяє, повернутися на займану смугу.",
+                "answer": "У місці А.",
                 "is_correct": true
+            },
+            {
+                "answer": "У місці Б.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.51. У якому місці водієві легкового автомобіля дозволено виконати зупинку або стоянку в цій ситуації?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15051.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Правильно, якщо він не перешкоджає руху інших транспортних засобів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Неправильно.",
+                "is_correct": true
+            },
+            {
+                "answer": "Правильно в будь-якому випадку.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.52. Чи правильно на підйомі поставлений білий автомобіль, якщо оглядовість в напрямку руху менше 100 м?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15052.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Правильно, якщо це не перешкоджає руху інших транспортних засобів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Неправильно.",
+                "is_correct": true
+            },
+            {
+                "answer": "Правильно.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.53. Чи правильно водій фіолетового автомобіля поставив транспортний засіб?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15053.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Червоний автомобіль.",
+                "is_correct": false
+            },
+            {
+                "answer": "Білий автомобіль.",
+                "is_correct": true
+            },
+            {
+                "answer": "Обидва автомобілі.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.54. Який транспортний засіб правильно поставлено на дорозі з одностороннім рухом, якщо відомо, що обидва автомобілі не перешкоджають руху інших транспортних засобів?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15054.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Якщо проїзна частина дороги невеликої ширини.",
+                "is_correct": false
+            },
+            {
+                "answer": "Якщо це загрожує безпеці дорожнього руху.",
+                "is_correct": false
+            },
+            {
+                "answer": "Якщо це створює перешкоди іншим учасникам дорожнього руху.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 2 і 3.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.55. За яких умов водієві та пасажирам транспортного засобу заборонено відчиняти двері транспортного засобу, залишати їх відчиненими і виходити з транспортного засобу?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "50 м.",
+                "is_correct": true
+            },
+            {
+                "answer": "100 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "150 м.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.56. Ближче якої відстані від залізничного переїзду водієві транспортного засобу заборонена стоянка?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Тільки відчиняти двері транспортного засобу, якщо це загрожує безпеці і створює перешкоди іншим учасникам дорожнього руху.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки залишати відчиненими двері транспортного засобу, якщо це загрожує безпеці і створює перешкоди іншим учасникам дорожнього руху.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки виходити з транспортного засобу, якщо це загрожує безпеці і створює перешкоди іншим учасникам дорожнього руху.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відчиняти двері транспортного засобу, залишати їх відчиненими і виходити з транспортного засобу, якщо це загрожує безпеці і створює перешкоди іншим учасникам дорожнього руху.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.57. Що забороняється водієві, а також пасажирам транспортного засобу під час відчинення дверей?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Ставити якомога правіше, щоб не перешкоджати іншим учасникам дорожнього руху.",
+                "is_correct": true
+            },
+            {
+                "answer": "Ставити на будь-якій відстані від краю проїзної частини.",
+                "is_correct": false
+            },
+            {
+                "answer": "Так, щоб не перешкоджати лише транспортним засобам.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.58. Як повинен водій ставити свій транспортний засіб біля правого краю проїзної частини?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "У зоні небезпечних поворотів і випуклих переломів поздовжнього профілю дороги з видимістю або оглядовістю менше 100 м хоча б в одному напрямку руху за межами населених пунктів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Ближче ніж за 50 м до залізничних переїздів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Більше ніж за 100 м до залізничних переїздів за межами населених пунктів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.59. У якому з місць заборонена стоянка транспортних засобів?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Біля правого краю проїзної частини чи на узбіччі.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки на узбіччі.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.60. У якому місці дороги водій повинен поставити транспортний засіб на зупинку або стоянку за наявності узбіччя, придатного для зупинки або стоянки?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "У місцях, де транспортний засіб, що стоїть, унеможливить рух інших транспортних засобів.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях, де транспортний засіб, що стоїть, створить перешкоду для руху пішоходів.",
+                "is_correct": false
+            },
+            {
+                "answer": "На газонах.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.61. У яких місцях заборонено стоянку транспортних засобів?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Тільки легковим автомобілям.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки мотоциклам.",
+                "is_correct": false
+            },
+            {
+                "answer": "Легковим автомобілям та мотоциклам.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.62. Яким транспортним засобам дозволяється стоянка на тротуарах?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Ближче 5 м.",
+                "is_correct": true
+            },
+            {
+                "answer": "Ближче 10 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "Ближче 15 м.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.63. На якій відстані від контейнерів для збору побутових відходів, місце розміщення або облаштування яких відповідає вимогам законодавства, заборонена стоянка транспортних засобів?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволена.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заборонена.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.64. Чи дозволена стоянка транспортних засобів на газонах?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "На узбіччі.",
+                "is_correct": false
+            },
+            {
+                "answer": "На майданчиках для стоянки.",
+                "is_correct": false
+            },
+            {
+                "answer": "За межами дороги.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 2 і 3.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.65. Де на дорогах за межами населених пунктів дозволяється стоянка транспортних засобів у темну пору доби або в умовах недостатньої видимості?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Тільки увімкнути аварійну сигналізацію.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки встановити знак аварійної зупинки або миготливий червоний ліхтар.",
+                "is_correct": false
+            },
+            {
+                "answer": "Виконати дію з відповіді 1 або 2, а в установлених Правилами дорожнього руху випадках - й обидва дії одночасно.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.66. Яких заходів повинен вжити водій транспортного засобу в разі вимушеної зупинки на місці, де зупинка заборонена, при відсутності можливості прибрати транспортний засіб?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Виконати стоянку тільки за межами дороги.",
+                "is_correct": false
+            },
+            {
+                "answer": "Виконати стоянку тільки на майданчиках для стоянки.",
+                "is_correct": false
+            },
+            {
+                "answer": "Виконати стоянку тільки на майданчиках для стоянки або за межами дороги.",
+                "is_correct": true
+            },
+            {
+                "answer": "Виконати стоянку на узбіччі, включивши тільки стоянкові ліхтарі.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.67. У якому місці водій повинен виконати стоянку за межами населеного пункту в темний час доби або в умовах недостатньої видимості?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "При відсутності спеціально відведених місць чи узбіччя.",
+                "is_correct": false
+            },
+            {
+                "answer": "Коли зупинка або стоянка неможлива на узбіччях або в спеціально відведених місцях.",
+                "is_correct": false
+            },
+            {
+                "answer": "Завжди, якщо водій зупинився для посадки або висадки пасажирів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
+                "is_correct": true
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.68. За яких умов водій має право ставити транспортний засіб біля правого краю проїзної частини?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Заходи щодо запобігання самовільного руху автомобіля.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заходи щодо запобігання проникнення до нього і (або) незаконного заволодіння ним.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заходи щодо забезпечення цілісності вантажу, що перевозиться.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.69. Яких заходів повинен вжити водій, перед тим як залишити свій транспортний засіб?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "У тому, що проїзна частина вільна від інших транспортних засобів.",
+                "is_correct": false
+            },
+            {
+                "answer": "У тому, що це не загрожує безпеці дорожнього руху.",
+                "is_correct": false
+            },
+            {
+                "answer": "У тому, що це не створює перешкод іншим учасникам дорожнього руху.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 2 і 3.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.70. У чому повинен переконатися водій перед тим, як відчинити двері транспортного засобу?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "У всіх перерахованих випадках.",
+                "is_correct": false
+            },
+            {
+                "answer": "На відстані не ближче 100 м від переїзду.",
+                "is_correct": false
+            },
+            {
+                "answer": "На відстані не ближче 50 м від переїзду.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.71. На якій відстані від залізничного переїзду водієві автомобіля дозволено виконати стоянку?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Повернути керовані колеса, щоб виключити можливість самовільного руху транспортного засобу.",
+                "is_correct": true
+            },
+            {
+                "answer": "Обов'язково скористатися противідкатними упорами.",
+                "is_correct": false
             },
             {
                 "answer": "Відповіді 1 і 2.",
                 "is_correct": false
             }
         ],
-        "question": "14.21. У чому повинен переконатися водій перед початком обгону за відсутності зустрічних транспортних засобів і транспортних засобів, що рухаються позаду?",
-        "explanation": null,
-        "image": "14021"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Не має права - повинен дати дорогу зустрічному автомобілю.",
-                "is_correct": true
-            },
-            {
-                "answer": "Має право.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.22. Чи має право водій чорного автомобіля розпочати обгін синього автомобіля?",
-        "explanation": null,
-        "image": "14022"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Може, увімкнувши звуковий сигнал.",
-                "is_correct": false
-            },
-            {
-                "answer": "Не може – повинен дочекатися, поки сірий автомобіль завершить обгін.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.23. Чи може водій зеленого автомобіля почати обгін сірого автомобіля?",
-        "explanation": null,
-        "image": "14023"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволяється при дотриманні заходів безпеки.",
-                "is_correct": false
-            },
-            {
-                "answer": "Забороняється.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволяється за умови, що швидкість мотоцикліста менше ніж 30 км/год.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.24. Чи дозволяється водієві автомобіля виконати обгін мотоцикліста на цьому перехресті?",
-        "explanation": null,
-        "image": "14024"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дати можливість обігнати себе і після цього почати обгін.",
-                "is_correct": false
-            },
-            {
-                "answer": "Не перешкоджати обгону, підвищуючи швидкість.",
-                "is_correct": false
-            },
-            {
-                "answer": "Виконати обидві дії.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.25. Як повинен діяти водій чорного автомобіля, що збирається виконувати обгін, в даній ситуації?",
-        "explanation": "Згідно з Правилами дорожнього руху України, водій, який збирається виконати обгін, повинен діяти обережно, щоб не створити небезпеку для інших учасників дорожнього руху. Якщо на дорозі є третій автомобіль, який вже виконує обгін, водій, що планує обгін, повинен:\n1. Дати можливість автомобілю, що вже виконує обгін, завершити маневр і повернутися на свою смугу руху. Це необхідно для уникнення конфліктних ситуацій на дорозі та можливих зіткнень.\n2. Не перешкоджати обгону іншого транспортного засобу, зокрема шляхом підвищення швидкості або створення інших перешкод. Це є прямою вимогою ПДР, яка забезпечує безпечне виконання обгону для всіх учасників руху.\nОтже, вірна відповідь - \"Виконати обидві дії.\".",
-        "image": "14025"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Переконатися, що водій сірого автомобіля не подав сигнал про намір повороту (перестроювання) ліворуч, і почати обгін.",
-                "is_correct": true
-            },
-            {
-                "answer": "Подати звуковий сигнал для привернення уваги водія транспортного засобу, що рухається попереду, й обов'язково (негайно) почати обгін.",
-                "is_correct": false
-            },
-            {
-                "answer": "Виконати всі вище перелічені дії.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.26. Що в даній ситуації повинен зробити водій зеленого автомобіля перед тим, як почати обгін?",
-        "explanation": null,
-        "image": "14026"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Збільшити швидкість і, виїхавши перед зеленим автомобілем, виконати обгін.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дочекатися, поки його обжене зелений автомобіль, і тільки потім виконати обгін.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.27. Як повинен діяти в даній ситуації водій сірого автомобіля, який збирається виконати обгін?",
-        "explanation": null,
-        "image": "14027"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено, якщо трактор рухається зі швидкістю менше ніж 30 км/год.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дозволено, при цьому він повинен переконатися в безпеці маневру.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.28. Чи дозволено водієві білого автомобіля виконати обгін трактора в даній ситуації?",
-        "explanation": null,
-        "image": "14028"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Зупинитися перед перехрестям і дочекатися, поки фіолетовий автомобіль поверне ліворуч.",
-                "is_correct": false
-            },
-            {
-                "answer": "Об'їхати фіолетовий автомобіль праворуч, забезпечивши безпеку руху.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.29. Як повинен вчинити водій синього автомобіля, що рухається прямо, у даній ситуації?",
-        "explanation": null,
-        "image": "14029"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволено за умови, що обгін завершиться до перехрестя.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено, якщо швидкість транспортного засобу, що обганяється, менше ніж 30 км/год.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.30. Чи дозволено у цьому місці водієві білого автомобіля виконати обгін?",
-        "explanation": null,
-        "image": "14030"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволено обгін на перехресті, за умови, що швидкість транспортного засобу, що обганяється, менше ніж 30 км/год.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.31. Чи дозволено водію червоного автомобіля виконати обгін в даному місці дороги?",
-        "explanation": null,
-        "image": "14031"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено за умови, що одиночний транспортний засіб рухається зі швидкістю менше ніж 30 км/год.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дозволено.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.32. Чи дозволено обгін транспортного засобу, який виконує об'їзд або обгін?",
+        "question": "15.72. Яких заходів, згідно з Правилами дорожнього руху, повинен вжити водій легкового автомобіля, поставленого на підйомі або спуску вздовж краю проїзної частини?",
         "explanation": null,
         "image": null
     },
     {
         "answers": [
             {
-                "answer": "Одна і більше.",
+                "answer": "Тільки перед залізничними переїздами.",
                 "is_correct": false
             },
             {
-                "answer": "Дві та більше.",
+                "answer": "Тільки за залізничними переїздами.",
+                "is_correct": false
+            },
+            {
+                "answer": "Тільки на самих залізничних переїздах.",
                 "is_correct": true
             },
             {
-                "answer": "Три і більше.",
+                "answer": "Відповіді 1, 2 і 3.",
                 "is_correct": false
-            },
-            {
-                "answer": "Чотири і більше.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.33. На дорогах з якою мінімальною кількістю смуг для руху в одному напрямку заборонений обгін?",
-        "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Рух по крайній лівій смузі з більш високою швидкістю, ніж швидкість руху в крайній правій смузі.",
-                "is_correct": false
-            },
-            {
-                "answer": "Рух по правому узбіччі, оскільки швидкість руху транспортного засобу, який обганяють, менш ніж 30 км/год.",
-                "is_correct": false
-            },
-            {
-                "answer": "Випередження одного або кількох транспортних засобів, пов'язане з виїздом на смугу зустрічного руху.",
-                "is_correct": true
-            },
-            {
-                "answer": "Відповіді, зазначені в пунктах 1, 2.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.34. Обгоном вважається:",
-        "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволено.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.35. Чи дозволено водієві обігнати транспортний засіб, що рухається тільки з проблисковим маячком зеленого кольору, і супроводжувані ним транспортні засоби?",
-        "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Перешкоджати обгону шляхом підвищення швидкості руху.",
-                "is_correct": true
-            },
-            {
-                "answer": "Повертати праворуч або зупинятися.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.36. Які дії заборонені водієві транспортного засобу, якого обганяють?",
-        "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволяється.",
-                "is_correct": false
-            },
-            {
-                "answer": "Забороняється.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволяється тільки на регульованих залізничних переїздах.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.37. Чи дозволяється обгін на залізничних переїздах?",
-        "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволено, якщо перехрестя регульоване.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дозволено, якщо Ви знаходитесь на головній дорозі.",
-                "is_correct": false
-            },
-            {
-                "answer": "Дозволено, якщо перехрестя розташоване поза населеним пунктом.",
-                "is_correct": false
-            },
-            {
-                "answer": "У всіх зазначених випадках.",
-                "is_correct": false
-            },
-            {
-                "answer": "Обгін на будь-якому перехресті заборонено.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.38. У яких випадках Вам дозволено обгін на перехресті?",
-        "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Ближче ніж за 100 м перед пішохідним переходом у населеному пункті і 150 м - поза населеним пунктом.",
-                "is_correct": false
-            },
-            {
-                "answer": "Ближче ніж за 50 м перед пішохідним переходом у населеному пункті і 100 м - поза населеним пунктом.",
-                "is_correct": true
-            },
-            {
-                "answer": "Ближче ніж за 50 м до і після пішохідного переходу в населеному пункті і 100 м - поза населеним пунктом.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.39. На якій відстані від пішохідного переходу заборонений обгін?",
-        "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Ближче ніж за 50 м перед пішохідним переходом у населеному пункті.",
-                "is_correct": false
-            },
-            {
-                "answer": "Ближче ніж за 100 м перед пішохідним переходом поза населеним пунктом.",
-                "is_correct": false
-            },
-            {
-                "answer": "На дорогах, що мають одну смугу для руху в кожному напрямку.",
-                "is_correct": false
-            },
-            {
-                "answer": "У місцях, зазначених у відповідях 1 і 2.",
-                "is_correct": true
-            },
-            {
-                "answer": "У місцях, зазначених у відповідях 1, 2, 3.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.40. Обгін заборонено:",
-        "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "У тому, щоб водій транспортного засобу, якого обганяють, зрозумів Ваші дії.",
-                "is_correct": false
-            },
-            {
-                "answer": "У тому, що після обгону зможе, не створюючи перешкоди транспортному засобу, якого обігнав, повернутися на раніше займану смугу.",
-                "is_correct": true
             },
             {
                 "answer": "Відповіді 1 і 2.",
                 "is_correct": false
             }
         ],
-        "question": "14.41. У чому з переліченого повинен переконатися водій перед тим, як почати обгін:",
+        "question": "15.73. Згідно з Правилами дорожнього руху, зупинка заборонена:",
         "explanation": null,
         "image": null
     },
     {
         "answers": [
             {
-                "answer": "Дозволено обгін тільки мопедів і гужових возів.",
+                "answer": "В місцях, де це не буде перешкоджати руху інших транспортних засобів.",
                 "is_correct": false
             },
             {
-                "answer": "Заборонено.",
+                "answer": "Біля тротуарів або інших місць із пішохідним рухом лише передньою частиною, а на підйомах – тільки задньою частиною.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
                 "is_correct": true
             }
         ],
-        "question": "14.42. Чи дозволено на перехресті обгін поодиноких транспортних засобів, що рухаються із швидкістю менше 30 км/год.?",
+        "question": "15.74. Ставити транспортний засіб під кутом до краю проїзної частини дозволяється:",
         "explanation": null,
         "image": null
     },
     {
         "answers": [
             {
-                "answer": "На мостах, естакадах і шляхопроводах.",
+                "answer": "На відстані не менше 10 м з обох боків від переходу.",
+                "is_correct": true
+            },
+            {
+                "answer": "На відстані не менше 20 м з обох боків від переходу.",
                 "is_correct": false
             },
             {
-                "answer": "Під шляхопроводами та естакадами.",
+                "answer": "На відстані не менше 30 м з обох боків від переходу.",
+                "is_correct": false
+            },
+            {
+                "answer": "На відстані не менше 10 м до переходу.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.75. На якій відстані від пішохідного переходу дозволена зупинка транспортних засобів?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "При відсутності тротуарів або інших місць із пішохідним рухом.",
+                "is_correct": false
+            },
+            {
+                "answer": "Якщо це не буде перешкоджати руху інших транспортних засобів.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.76. За якої умови дозволено ставити транспортні засоби під кутом до краю проїзної частини, якщо інший спосіб не визначений дорожніми знаками чи розміткою?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволено ставити тільки велосипеди і мопеди.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заборонено ставити всі транспортні засоби.",
+                "is_correct": false
+            },
+            {
+                "answer": "Дозволено ставити тільки велосипеди, мопеди і мотоцикли без бокового причепа.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.77. Чи дозволено ставити транспортні засоби в два ряди на проїзній частині?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "У місцях, де відстань між суцільною лінією розмітки, розділювальною смугою чи протилежним краєм проїзної частини і транспортним засобом, що зупинився, менше 3 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "На перехрестях та ближче 10 м від краю перехрещуваної проїзної частини за відсутності на них пішохідного переходу, за винятком зупинки для надання переваги в русі та зупинки проти бокового проїзду на Т-подібних перехрестях, де є суцільна лінія розмітки або розділювальна смуга.",
+                "is_correct": false
+            },
+            {
+                "answer": "На пішохідних переходах і ближче ніж за 10 м до них з обох боків.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 3.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.78. У якому з перелічених місць заборонено зупинку транспортних засобів?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволені.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заборонені.",
+                "is_correct": true
+            },
+            {
+                "answer": "Дозволені для посадки або висадки людей.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.79. Чи дозволені зупинка і стоянка біля розділювальних смуг або бульварів?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "На мостах.",
+                "is_correct": false
+            },
+            {
+                "answer": "На шляхопроводах й естакадах.",
+                "is_correct": false
+            },
+            {
+                "answer": "Під мостами, шляхопроводами та естакадами.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.80. У якому з місць забороняється зупинка?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволено.",
+                "is_correct": true
+            },
+            {
+                "answer": "Заборонено.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.81. Чи дозволено водіям легкових автомобілів виконувати зупинку або стоянку на лівому боці дороги, яка має по одній смузі для руху в кожному напрямку, без трамвайних колій посередині і не розділена суцільною розміткою, а також на лівому боці дороги з одностороннім рухом у населеному пункті?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "На дорогах, що мають по одній смузі для руху в кожному напрямку, без трамвайних колій посередині і не розділених суцільною розміткою.",
+                "is_correct": false
+            },
+            {
+                "answer": "На дорозі з одностороннім рухом.",
+                "is_correct": false
+            },
+            {
+                "answer": "На всіх дорогах, що мають по одній смузі для руху в кожному напрямку.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
+                "is_correct": true
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.82. На яких дорогах населених пунктів водієві легкового автомобіля дозволено поставити свій транспортний засіб біля лівого краю проїзної частини?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "У місцях, де буде неможливим зустрічний роз'їзд.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях, де буде неможливим об'їзд транспортного засобу, що зупинився.",
+                "is_correct": false
+            },
+            {
+                "answer": "У місцях, де транспортний засіб закриває від інших водіїв сигнали світлофора або дорожні знаки.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.83. У яких місцях заборонено зупинку транспортних засобів?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Не ближче 10 м.",
+                "is_correct": true
+            },
+            {
+                "answer": "Не ближче 15 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "Не ближче 20 м.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.84. На якій відстані від виїздів з прилеглих територій водіям дозволяється виконати зупинку?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Заборонено.",
+                "is_correct": true
+            },
+            {
+                "answer": "Дозволено на час до 20 хвилин.",
+                "is_correct": false
+            },
+            {
+                "answer": "Дозволено.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.85. Чи дозволена стоянка в місцях, де Правилами дорожнього руху забороняється зупинка транспортних засобів?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "На тротуарах у будь-якому випадку.",
+                "is_correct": false
+            },
+            {
+                "answer": "На тротуарах, крім місць, позначених відповідними дорожніми знаками, встановленими з табличками.",
+                "is_correct": false
+            },
+            {
+                "answer": "На тротуарах, за винятком легкових автомобілів та мотоциклів, які можуть бути поставлені на краю тротуарів, де для руху пішоходів залишається щонайменше 2 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "Більше 100 м від залізничного переїзду.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 2 і 3.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.86. У якому з місць заборонена стоянка транспортних засобів?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "На тротуарах тільки легковим автомобілям і мотоциклам, у місцях, позначених знаками, встановленими з табличками.",
+                "is_correct": false
+            },
+            {
+                "answer": "На краю тротуарів, де для руху пішоходів залишається щонайменше 2 м, -тільки легковим автомобілям і мотоциклам.",
+                "is_correct": false
+            },
+            {
+                "answer": "На всіх тротуарах, де не створюються перешкоди для руху пішоходів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1, 2 і 3.",
+                "is_correct": false
+            },
+            {
+                "answer": "Відповіді 1 і 2.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.87. У яких випадках транспортним засобам дозволяється стоянка на тротуарі?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "Не менше 1 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "Не менше 1,5 м.",
+                "is_correct": false
+            },
+            {
+                "answer": "Не менше 2 м.",
+                "is_correct": true
+            },
+            {
+                "answer": "Не менше 3 м.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.88. Яка ширина повинна бути залишена для руху пішоходів, якщо легковий автомобіль або мотоцикл поставлені на краю тротуару відповідно до Правил дорожнього руху?",
+        "explanation": null,
+        "image": null
+    },
+    {
+        "answers": [
+            {
+                "answer": "На набережних.",
+                "is_correct": false
+            },
+            {
+                "answer": "На мостах, шляхопроводах й естакадах.",
                 "is_correct": false
             },
             {
@@ -804,62 +1894,28 @@
                 "is_correct": false
             },
             {
-                "answer": "Відповіді 1 і 3.",
+                "answer": "Відповіді 2 і 3.",
                 "is_correct": true
             }
         ],
-        "question": "14.43. У яких з перелічених місць заборонений обгін?",
-        "explanation": "Згідно з Правилами дорожнього руху України, обгін заборонено на певних ділянках доріг, зокрема:\n1. На мостах, естакадах і шляхопроводах – це заборонено через підвищену небезпеку, пов'язану з обмеженими умовами видимості та можливими несподіваними змінами дорожньої ситуації.\n2. У тунелях – також заборонено обгін через погіршену видимість, вузький простір і складність маневрування в таких умовах.\nОтже, вірна відповідь - \"Відповіді 1 і 3.\".",
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            },
-            {
-                "answer": "Дозволено.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.44. Чи дозволено водієві виконати обгін під час руху в умовах недостатньої видимості?",
+        "question": "15.89. Де водієві заборонено зупинку?",
         "explanation": null,
         "image": null
     },
     {
         "answers": [
             {
-                "answer": "Дозволено, якщо видимість у напрямку руху понад 300 м.",
-                "is_correct": true
+                "answer": "Дозволена.",
+                "is_correct": false
             },
             {
-                "answer": "Заборонено.",
-                "is_correct": false
+                "answer": "Заборонена.",
+                "is_correct": true
             }
         ],
-        "question": "14.45. Чи дозволено водієві виконати обгін під час руху в умовах туману?",
+        "question": "15.90. Чи дозволена стоянка чорного автомобіля в цьому місці?",
         "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Випередження одного або кількох транспортних засобів, пов'язане з виїздом на смугу зустрічного руху.",
-                "is_correct": true
-            },
-            {
-                "answer": "Випередження рухомого транспортного засобу, пов'язане з перестроюванням на праву смугу руху.",
-                "is_correct": false
-            },
-            {
-                "answer": "Випередження рухомого транспортного засобу, пов'язане з перестроюванням на ліву смугу руху попутного напрямку.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.46. Яка з перерахованих дій відповідає терміну «обгін»?",
-        "explanation": null,
-        "image": null
+        "image": "https://pdrtest.com/pics/15090.webp"
     },
     {
         "answers": [
@@ -872,54 +1928,28 @@
                 "is_correct": true
             }
         ],
-        "question": "14.47. Чи дозволено Вам розпочати обгін у цій ситуації?",
+        "question": "15.91. Чи дозволено водієві сірого автомобіля зупинитись у цьому місці?",
         "explanation": null,
-        "image": "14047"
+        "image": "https://pdrtest.com/pics/15091.webp"
     },
     {
         "answers": [
             {
-                "answer": "Дозволено.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.48. Чи дозволено Вам виконати обгін автомобіля в даному випадку, якщо Ви рухаєтесь на мосту?",
-        "explanation": null,
-        "image": "14048"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Дозволено.",
-                "is_correct": false
-            },
-            {
-                "answer": "Заборонено.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.49. Чи дозволено водієві жовтого автомобіля виконати обгін у даному випадку?",
-        "explanation": null,
-        "image": "14049"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Ні.",
+                "answer": "Обидва водії.",
                 "is_correct": true
             },
             {
-                "answer": "Так.",
+                "answer": "Тільки водій жовтого автомобіля.",
+                "is_correct": false
+            },
+            {
+                "answer": "Водій білого автомобіля.",
                 "is_correct": false
             }
         ],
-        "question": "14.50. Під час обгону інших транспортних засобів вночі необхідно вмикати аварійну світлову сигналізацію:",
+        "question": "15.92. Хто з водіїв, виконуючи зупинку, порушив Правила дорожнього руху?",
         "explanation": null,
-        "image": null
+        "image": "https://pdrtest.com/pics/15092.webp"
     },
     {
         "answers": [
@@ -932,9 +1962,9 @@
                 "is_correct": true
             }
         ],
-        "question": "14.51. Під час руху тунелем у світлу пору доби водій транспортного засобу має право виконувати обгін:",
+        "question": "15.93. Чи має право водій білого автомобіля виконати зупинку у цьому місці?",
         "explanation": null,
-        "image": "14051"
+        "image": "https://pdrtest.com/pics/15093.webp"
     },
     {
         "answers": [
@@ -947,70 +1977,9 @@
                 "is_correct": true
             }
         ],
-        "question": "14.52. Чи дозволено Вам здійснити обгін в наведеній ситуації?",
+        "question": "15.94. Чи дозволено водієві сірого автомобіля зупинитись у цьому місці?",
         "explanation": null,
-        "image": "14052"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Якщо перехрестя регульоване, і горить зелений сигнал світлофора.",
-                "is_correct": false
-            },
-            {
-                "answer": "Якщо на зустрічній смузі немає транспортних засобів.",
-                "is_correct": false
-            },
-            {
-                "answer": "Обгін на перехресті заборонено.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.53. У якому випадку дозволено виконати обгін на перехресті?",
-        "explanation": null,
-        "image": null
-    },
-    {
-        "answers": [
-            {
-                "answer": "Відсутності транспортних засобів на смузі зустрічного руху.",
-                "is_correct": false
-            },
-            {
-                "answer": "Можливості виконати обгін безпечно.",
-                "is_correct": false
-            },
-            {
-                "answer": "У жодному з випадків.",
-                "is_correct": true
-            }
-        ],
-        "question": "14.54. Виконати обгін в тунелі дозволено у випадку:",
-        "explanation": null,
-        "image": "14054"
-    },
-    {
-        "answers": [
-            {
-                "answer": "Не має права.",
-                "is_correct": true
-            },
-            {
-                "answer": "Має право, якщо швидкість автомобіля, що обганяється, менше 30 км/год.",
-                "is_correct": false
-            },
-            {
-                "answer": "Має право, якщо смуга зустрічного руху вільна.",
-                "is_correct": false
-            },
-            {
-                "answer": "Має право при дотриманні умов, зазначених у відповідях 2 і 3.",
-                "is_correct": false
-            }
-        ],
-        "question": "14.55. Чи має право водій виконати обгін у даній дорожній ситуації?",
-        "explanation": null,
-        "image": "14055"
+        "image": "https://pdrtest.com/pics/15094.webp"
     },
     {
         "answers": [
@@ -1023,8 +1992,42 @@
                 "is_correct": false
             }
         ],
-        "question": "14.56. Чи дозволено поза населеним пунктом для привертання уваги водія транспортного засобу, що обганяється, подати звуковий сигнал?",
+        "question": "15.95. Чи порушив водій чорного автомобіля правила зупинки?",
         "explanation": null,
-        "image": "14056"
+        "image": "https://pdrtest.com/pics/15095.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Заборонена.",
+                "is_correct": true
+            },
+            {
+                "answer": "Дозволена, за умови, що є 2 метри для руху пішоходів.",
+                "is_correct": false
+            },
+            {
+                "answer": "Дозволена, за умови, що поруч немає інших місць для паркування.",
+                "is_correct": false
+            }
+        ],
+        "question": "15.96. Чи дозволена стоянка автомобіля в цьому місці?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15096.webp"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Дозволено.",
+                "is_correct": false
+            },
+            {
+                "answer": "Заборонено.",
+                "is_correct": true
+            }
+        ],
+        "question": "15.97. Чи дозволено водієві чорного автомобіля зупинитись так як показано на малюнку?",
+        "explanation": null,
+        "image": "https://pdrtest.com/pics/15097.webp"
     }
 ]
